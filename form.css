@@ -1,0 +1,65 @@
+body{
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: rgb(175, 235, 200);
+    font-family: sans-serif;
+    margin: 0;
+}
+.login-container{
+    background-color: transparent;
+    padding: 40px;
+    text-align: center;
+    height: 45%;
+    box-shadow: 0 0 10px rgb(0, 0, 0);
+    width: 30%;
+    font-family: sans-serif;
+    border-radius: 40%;
+    margin-top: 70px;
+    margin-inline: auto;
+}
+.input-grup{
+    width: 90%;
+    background-color: rgb(255, 255, 255);
+    padding: 20px;
+    margin-top: 20px;
+    border-radius:15px;
+    text-align: center;
+}
+.button1{
+    width: 67%;
+    padding: 10px;
+    margin-top: 40px;
+   background-color: ;
+    font-family: sans-serif;
+}
+/* .pot{
+     box-shadow: 0 0 10px blue;
+    border-radius: 10px;
+    background-color:  rgb(206, 162, 109);
+    text-decoration: none;
+} */
+
+input{
+    background-color: aqua;
+    width: auto;
+    
+}
+label{
+    margin-top: 10px;
+}
+.bet{
+    margin-right: 13%;
+}
+.inventory{
+        background-color: transparent;
+        padding: 40px;
+        text-align: center;
+        height: 96%;
+        box-shadow: 0 0 10px rgb(0, 0, 0);
+        width: 25%;
+        font-family: sans-serif;
+        border-radius: 30%;
+        margin-top: 70px;
+        margin-inline: auto;
+}
